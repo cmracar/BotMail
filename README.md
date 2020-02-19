@@ -17,7 +17,7 @@ So , you who is sending mail have to use gMail .
 <br>
 
 # Just do it
-
+pip install PyQt5
 
 Open your less secure apps settings page and config it.
 
