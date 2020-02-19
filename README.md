@@ -4,7 +4,7 @@ BotMail is a desktop mail application which prepared with PyQt5 .
 
 This application need to SMTP Server connection.
 
-Now , it is only support <b>gMail server</b>. 
+It is only support <b>gMail server</b>. 
 
 <br>
 
